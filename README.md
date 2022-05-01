@@ -84,7 +84,7 @@ O corpo (body) deverá possuir um objeto com as seguintes propriedades (respeita
 
 #### Exemplo de requisição efetuada:
 
-![criar usuario](/public/readme_images/criar-usuario.png)
+![criar usuario](https://github.com/emanuellyleoncio/api-livraria/blob/main/public/readme_images/criar-usuario.PNG)
 
 ### 2 - Autenticação
 
@@ -99,7 +99,7 @@ O corpo (body) deverá possuir um objeto com as seguintes propriedades (respeita
 
 #### Exemplo de requisição efetuada:
 
-![autenticar](/public/readme_images/autenticacao.png)
+![autenticar](https://github.com/emanuellyleoncio/api-livraria/blob/main/public/readme_images/autenticacao.PNG)
 
 ### 3 - Login usuário
 
@@ -107,7 +107,7 @@ Os endpoints de Clientes, Produtos e Vendas são acessadas somente com usuário 
 
 #### Exemplo:
 
-![token](/public/readme_images/token.png)
+![token](https://github.com/emanuellyleoncio/api-livraria/blob/main/public/readme_images/token.PNG)
 
 ### 4 - Cadastro de cliente
 
@@ -134,7 +134,7 @@ O corpo (body) deverá possuir um objeto com as seguintes propriedades (respeita
 
 #### Exemplo de requisição efetuada:
 
-![cadastrar](/public/readme_images/cad-cliente.png)
+![cadastrar](https://github.com/emanuellyleoncio/api-livraria/blob/main/public/readme_images/cad-cliente.PNG)
 
 Caso o cpf informado no body da requisição já exista no banco de dados, a seguinte mensagem será exibida:
 
@@ -153,7 +153,7 @@ Esse endpoint lista todos os clientes cadastrados no sistema.
 
 #### Exemplo de requisição efetuada:
 
-![listar](/public/readme_images/listar-cliente.png)
+![listar](https://github.com/emanuellyleoncio/api-livraria/blob/main/public/readme_images/listar-cliente.PNG)
 
 ### 6 - Detalhar cliente
 
@@ -163,7 +163,7 @@ Esse endpoint traz detalhes do cliente cadastrado, a partir do id informado.
 
 #### Exemplo de requisição efetuada:
 
-![detalhar](/public/readme_images/det-cliente.png)
+![detalhar](https://github.com/emanuellyleoncio/api-livraria/blob/main/public/readme_images/det-cliente.PNG)
 
 Caso o id não exista no banco de dados, a seguinte mensagem será exibida:
 
@@ -187,7 +187,7 @@ O corpo (body) deverá possuir um objeto com as seguintes propriedades (respeita
 
 #### Exemplo de requisição efetuada:
 
-![editar](/public/readme_images/edit-cliente.png)
+![editar](https://github.com/emanuellyleoncio/api-livraria/blob/main/public/readme_images/edit-cliente.PNG)
 
 Caso o id não exista no banco de dados, a seguinte mensagem será exibida:
 
@@ -206,7 +206,7 @@ Esse endpoint exclui um cliente cadastrado a partir do id informado.
 
 #### Exemplo de requisição efetuada:
 
-![deletar](/public/readme_images/del-cliente.png)
+![deletar](https://github.com/emanuellyleoncio/api-livraria/blob/main/public/readme_images/del-cliente.PNG)
 
 Caso o id não exista no banco de dados, a seguinte mensagem será exibida:
 
@@ -231,7 +231,7 @@ O corpo (body) deverá possuir um objeto com as seguintes propriedades (respeita
 
 #### Exemplo de requisição efetuada:
 
-![cadastrar](/public/readme_images/cad-produto.png)
+![cadastrar](https://github.com/emanuellyleoncio/api-livraria/blob/main/public/readme_images/cad-produto.PNG)
 
 
 ### 10 - Listar produtos
@@ -243,7 +243,7 @@ Esse endpoint lista todos os produtos cadastrados no sistema em ordem alfabétic
 
 #### Exemplo de requisição efetuada:
 
-![listar](/public/readme_images/listar-produto.png)
+![listar](https://github.com/emanuellyleoncio/api-livraria/blob/main/public/readme_images/listar-produto.PNG)
 
 ### 11 - Detalhar produto
 
@@ -253,7 +253,7 @@ Esse endpoint traz detalhes do cliente cadastrado, a partir do id informado.
 
 #### Exemplo de requisição efetuada:
 
-![detalhar](/public/readme_images/det-produto.png)
+![detalhar](https://github.com/emanuellyleoncio/api-livraria/blob/main/public/readme_images/det-produto.PNG)
 
 Caso o id não exista no banco de dados, a seguinte mensagem será exibida:
 
@@ -279,7 +279,7 @@ O corpo (body) deverá possuir um objeto com as seguintes propriedades (respeita
 
 #### Exemplo de requisição efetuada:
 
-![editar](/public/readme_images/edit-produto.png)
+![editar](https://github.com/emanuellyleoncio/api-livraria/blob/main/public/readme_images/edit-produto.PNG)
 
 Caso o id não exista no banco de dados, a seguinte mensagem será exibida:
 
@@ -298,7 +298,7 @@ Esse endpoint exclui um produto cadastrado a partir do id informado.
 
 #### Exemplo de requisição efetuada:
 
-![deletar](/public/readme_images/del-produto.png)
+![deletar](https://github.com/emanuellyleoncio/api-livraria/blob/main/public/readme_images/del-produto.PNG)
 
 Caso o id não exista no banco de dados, a seguinte mensagem será exibida:
 
@@ -323,7 +323,7 @@ O corpo (body) deverá possuir um objeto com as seguintes propriedades (respeita
 
 #### Exemplo de requisição efetuada:
 
-![vender](/public/readme_images/venda.png)
+![vender](https://github.com/emanuellyleoncio/api-livraria/blob/main/public/readme_images/venda.PNG)
 
 ## Dificuldades encontradas
 
